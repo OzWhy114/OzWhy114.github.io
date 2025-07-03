@@ -1,0 +1,5 @@
+.loading-taichi img,
+.loading-taichi svg {
+  animation: none !important;
+  transform: none !important;
+}

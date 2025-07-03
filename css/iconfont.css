@@ -1,6 +1,6 @@
 @font-face {
   font-family: "iconfont";
-  src: url("//at.alicdn.com/t/c/font_4552607_0khxww3tj3q9.woff2") format('woff2');
+  src: url("//at.alicdn.com/t/c/font_.woff2") format('woff2');
   font-display: swap;
 }
 .tag-wrap .archives-tag-list-link:before {
@@ -123,6 +123,18 @@
   font-family: "iconfont";
   content: "\e630";
 }
+.icon-github:before {
+  content: "\e619";
+}
+.icon-bilibili:before {
+  content: "\e603";
+}
+.icon-steam:before {
+  content: "\e624";
+}
+.icon-email:before {
+  content: "\e63c";
+}
 .sidebar-btn-wrapper .sidebar-toc-btn:before {
   font-family: "iconfont";
   content: "\e633";
@@ -150,6 +162,14 @@
 .icon-taichi:before {
   font-family: "iconfont";
   content: "\e62b";
+}
+.icon-weixin:before {
+  font-family: "iconfont";
+  content: "\e640";
+}
+.icon-qq:before {
+  font-family: "iconfont";
+  content: "\e63e";
 }
 .icon-image:before {
   font-family: "iconfont";
