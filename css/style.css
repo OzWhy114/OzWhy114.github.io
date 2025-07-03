@@ -40,9 +40,9 @@
   --highlight-aqua: #479d9d;
   --highlight-blue: #1973b8;
   --highlight-purple: #7135ac;
-  --cursor-default: url("../images/cursor/reimu-cursor-default.png"), auto;
-  --cursor-pointer: url("../images/cursor/reimu-cursor-pointer.png"), pointer;
-  --cursor-text: url("../images/cursor/reimu-cursor-text.png"), text;
+  --cursor-default: url("../images/cursor/natsume_backward.png"), auto;
+  --cursor-pointer: url("../images/cursor/natsume_backward.png"), pointer;
+  --cursor-text: url("../images/cursor/natsume_input.png"), text;
   --footer-icon: url("../images/1.png");
   --sponsor-icon: url("../images/taichi.png");
   --top-icon: url("../images/1.png");
@@ -119,8 +119,8 @@ body [data-aos='zoom-in'] {
   }
 }
 @keyframes rotate-all {
-  100% {
-    transform: rotate(360deg);
+  0%, 100% {
+    transform: rotate(0deg) !important;
   }
 }
 @keyframes transform-all {
