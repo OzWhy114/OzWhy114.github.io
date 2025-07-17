@@ -36,7 +36,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   font: 700 2rem Mulish, 'Noto Sans SC', 'Noto Serif JP', -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  color: #e88565;
+  color: #888;
 }
 #loader .spinner-box .loading-word span {
   display: inline-block;

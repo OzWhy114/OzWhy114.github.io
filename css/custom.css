@@ -3,3 +3,8 @@
   animation: none !important;
   transform: none !important;
 }
+
+[data-theme="dark"] a {
+  color: #58a6ff !important;
+  /* GitHub 风格的蓝色，确保可读性 */
+}
